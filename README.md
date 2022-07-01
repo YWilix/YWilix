@@ -1,6 +1,6 @@
 === Hello I'am Y_Wilix ===
 
-I'am a Programmer / Game_developer / Designer / Music Producer
+I'am a Developer / GameDeveloper / Designer / Music Producer
 
 and I'am Working Now on :  
 
