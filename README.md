@@ -1,10 +1,9 @@
-=== Hello I'am Y_Wilix ===
+# === Hello I'am Y_Wilix ===
 
-I'am a Developer / GameDeveloper / Designer / Music Producer
+I'am a **Software Developer** , **Game Developer** , **Designer** and **Music Producer**
 
 and I'am Working Now on :  
 
-__a Game Called Escape the Evil
+-a Game Called Escape the Evil
 
-__Some other Programming Projects
--->
+-Some other Programming Projects
