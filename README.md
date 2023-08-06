@@ -1,6 +1,6 @@
-# === Hello I'am Y_Wilix ===
+# === Hello I'am YWilix ===
 
-I'am a **Software Developer** , **Game Developer** , **Designer** and **Music Producer**
+I'am a **Software Engineer** , **Game Developer** , **Designer** and **Music Producer**
 
 and I'am Working Now on :  
 
